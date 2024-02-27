@@ -5,7 +5,7 @@ import re
 
 
 
-with open(r"c:\users\Mr. Big\Desktop\apache_logs.txt","r") as myFile:
+with open(r"c:\shared\apache_logs.txt","r") as myFile:
     # Read the file content
     file_content = myFile.read()
 

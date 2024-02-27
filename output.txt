@@ -1,0 +1,273 @@
+IP: 101.119.18.35
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 101.226.168.198
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 109.74.151.149
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 111.199.235.239
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 115.112.233.75
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 122.166.142.108
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 129.121.176.228
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 130.185.72.6
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 130.237.218.86
+Number of occurrences of '404': 4
+Number of occurrences of '500': 0
+IP: 131.107.160.94
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 14.140.163.52
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 14.160.65.22
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 144.76.194.187
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 144.76.95.39
+Number of occurrences of '404': 14
+Number of occurrences of '500': 0
+IP: 157.55.34.93
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 173.236.32.219
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 176.92.75.62
+Number of occurrences of '404': 5
+Number of occurrences of '500': 0
+IP: 183.91.14.219
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 184.154.137.213
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 185.38.249.133
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 188.165.243.45
+Number of occurrences of '404': 3
+Number of occurrences of '500': 0
+IP: 190.250.238.82
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 192.185.81.134
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 192.185.83.181
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 193.244.33.47
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 194.186.207.105
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 195.211.162.22
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 195.250.34.144
+Number of occurrences of '404': 3
+Number of occurrences of '500': 0
+IP: 198.143.145.210
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 198.245.61.43
+Number of occurrences of '404': 3
+Number of occurrences of '500': 0
+IP: 199.102.67.16
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 199.116.117.212
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 199.168.96.66
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 199.189.248.95
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 200.31.173.106
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 204.62.56.3
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 207.241.237.104
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 207.241.237.220
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 208.115.113.88
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 208.43.251.181
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 208.50.255.30
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 208.91.156.11
+Number of occurrences of '404': 60
+Number of occurrences of '500': 0
+IP: 210.13.83.18
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 212.90.148.107
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 216.14.208.102
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 216.150.76.218
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 217.26.210.20
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 219.64.34.68
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 23.20.83.155
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 38.99.236.50
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 46.28.105.80
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 5.9.143.150
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 50.58.161.66
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 50.87.144.128
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 59.163.27.11
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 61.140.183.41
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 62.225.70.202
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 62.24.122.25
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 63.140.98.80
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 64.131.102.243
+Number of occurrences of '404': 0
+Number of occurrences of '500': 1
+IP: 66.147.244.126
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 66.249.73.135
+Number of occurrences of '404': 8
+Number of occurrences of '500': 2
+IP: 66.249.73.185
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 67.215.172.14
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 69.171.237.10
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 69.171.237.9
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 69.175.14.230
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 69.175.87.242
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 74.208.16.115
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 74.208.180.23
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 75.67.42.229
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 75.97.9.59
+Number of occurrences of '404': 6
+Number of occurrences of '500': 0
+IP: 76.164.234.106
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 78.173.140.106
+Number of occurrences of '404': 3
+Number of occurrences of '500': 0
+IP: 79.171.127.34
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 80.108.25.232
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 81.169.144.135
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 84.137.208.44
+Number of occurrences of '404': 4
+Number of occurrences of '500': 0
+IP: 85.115.58.180
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 85.19.71.167
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 85.43.182.12
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 86.28.207.22
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 88.3.37.62
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 89.107.177.18
+Number of occurrences of '404': 2
+Number of occurrences of '500': 0
+IP: 89.107.180.34
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 90.175.31.133
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 91.236.75.25
+Number of occurrences of '404': 8
+Number of occurrences of '500': 0
+IP: 94.242.255.188
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 95.78.54.93
+Number of occurrences of '404': 3
+Number of occurrences of '500': 0
+IP: 96.127.149.186
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
+IP: 98.130.2.118
+Number of occurrences of '404': 1
+Number of occurrences of '500': 0
