@@ -29,3 +29,8 @@ sorted_ips = sorted(ip_counts, key=ip_counts.get, reverse=True)
 print("Sorted IP addresses (most common to least):")
 for ip in sorted_ips:
     print(ip, ":", ip_counts[ip])
+    count_404 = status_count["404"]
+    count_500 = status_count["500"]
+
+    
+   
