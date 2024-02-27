@@ -33,3 +33,6 @@ for line_number, line in enumerate(file_content.splitlines(), start=1):
         print(f"Error details: {e}")
 for i in parsed_data:
     print(i)
+    with open('results.txt', 'a') as file:
+        # Write content to the file
+        file.write(str(i) + '\n')

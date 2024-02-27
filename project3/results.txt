@@ -1,0 +1,2 @@
+Number of occurrences of '404': 216
+Number of occurrences of '500': 21

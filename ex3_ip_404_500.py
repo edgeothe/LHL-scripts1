@@ -27,10 +27,13 @@ ip_counts = Counter(ip_addresses)
 sorted_ips = sorted(ip_counts, key=ip_counts.get, reverse=True)
 
 print("Sorted IP addresses (most common to least):")
-for ip in sorted_ips:
-    print(ip, ":", ip_counts[ip])
-    count_404 = status_count["404"]
-    count_500 = status_count["500"]
+with open('output2.txt', 'a') as file:
+    for ip in sorted_ips:
+        file.write(f"{ip}: {ip_counts[ip]}\n")
+        print(ip, ":", ip_counts[ip])
+
+count_404 = status_count["404"]
+count_500 = status_count["500"]
 
     
    
