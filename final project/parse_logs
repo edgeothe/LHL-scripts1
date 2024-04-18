@@ -1,0 +1,37 @@
+
+import re
+
+def parse_log_line(log_line):
+    # Regular expression pattern to match each part of the log line
+    pattern = r'^(\S+) - - \[(.*?)\] "(.*?)" (\d+) (\d+) "(.*?)"$'
+    match = re.match(pattern, log_line)
+    if match:
+        ip_address = match.group(1)
+        timestamp = match.group(2)
+        method, url, http_version = match.group(3).split()
+        status_code = match.group(4)
+        size = match.group(5)
+        user_agent = match.group(6)
+        return {
+            "ip_address": ip_address,
+            "timestamp": timestamp,
+            "method": method,
+            "url": url,
+            "http_version": http_version,
+            "status_code": status_code,
+            "size": size,
+            "user_agent": user_agent
+        }
+    else:
+        return None
+
+# Example usage:
+log_lines = [
+    '136.243.111.17 - - [19/Feb/2022:21:56:11 -0500] "GET / HTTP/1.1" 200 491 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)"',
+    '138.201.202.232 - - [19/Feb/2022:21:56:13 -0500] "GET / HTTP/1.1" 200 491 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)"'
+]
+
+for line in log_lines:
+    parsed = parse_log_line(line)
+    if parsed:
+        print(parsed)
